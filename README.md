@@ -6,6 +6,11 @@ Writes Karma results to
 Subunit consumers like [stackviz](https://github.com/openstack/stackviz) and
 [subunit2sql](https://github.com/openstack-infra/subunit2sql).
 
+NOTE: Project has moved!
+------------------------
+
+**See: https://github.com/openstack/karma-subunit-reporter**
+
 Installation
 ------------
 
